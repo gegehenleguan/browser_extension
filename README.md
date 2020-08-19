@@ -1,5 +1,4 @@
-# browser_extension
-浏览器插件
+# 油猴脚本
 ## 脚本列表
 ### 1. bilibili视频下载-大会员视频解析
 - #### [油猴直接安装](https://greasyfork.org/zh-CN/scripts/408893-%E5%B7%A5%E5%85%B7%E7%AE%B1-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%A7%A3%E9%94%81%E5%A4%A7%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91)
