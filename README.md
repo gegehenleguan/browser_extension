@@ -15,3 +15,8 @@
 - #### [油猴直接安装](https://greasyfork.org/zh-CN/scripts/408621-qq%E7%BE%A4%E6%88%90%E5%91%98%E4%BF%A1%E6%81%AF%E6%8F%90%E5%8F%96%E5%99%A8)
 - #### 手动安装油猴脚本（强烈建议）（免费使用）
 	- [脚本下载地址1（蓝凑云）](https://xsyhnb.lanzous.com/iLzfnfsy9wd)(内附手动安装的教程)
+
+### 3. YouTube视频下载工具
+- #### [油猴直接安装](https://greasyfork.org/zh-CN/scripts/409209-youtube-downloader)
+- #### 手动安装油猴脚本（强烈建议）（免费使用）
+	- [脚本下载地址1（蓝凑云）](https://xsyhnb.lanzous.com/iotNefu9iyb)(内附手动安装的教程)
