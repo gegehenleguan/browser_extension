@@ -23,3 +23,5 @@
 	- [脚本下载地址1（蓝凑云）](https://xsyhnb.lanzous.com/iotNefu9iyb)(内附手动安装的教程)
 	
 ### 4. 百度文库破解（马上上线）
+- #### 手动安装油猴脚本（强烈建议）（免费使用）
+	- [脚本下载地址1（蓝凑云）](https://xsyhnb.lanzous.com/i3I5Bfynswh)(内附手动安装的教程)
