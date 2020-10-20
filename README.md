@@ -4,7 +4,8 @@
 ### 1. bilibili视频下载-大会员视频解析
 - #### [油猴直接安装](https://greasyfork.org/zh-CN/scripts/410145-bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E5%A4%A7%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3)
 - #### 手动安装油猴脚本（<font color='red'>强烈建议</font>）（免费使用）
-	- [脚本下载地址1 (蓝凑云)](https://xsyhnb.lanzous.com/iF3HDfswieh) (内附手动安装的教程)
+	- [脚本下载地址1.0.0 (蓝凑云)](https://xsyhnb.lanzous.com/iF3HDfswieh) (内附手动安装的教程)
+	- [脚本下载地址1.1.0 (蓝凑云)](https://xsyhnb.lanzoui.com/iZz9ehkrg8d) (内附手动安装的教程)
 - #### 浏览器插件直接安装（开发中）
 	- 谷歌浏览器(Fhrome)
 	- 火狐浏览器(Firefox)
