@@ -5,11 +5,11 @@
 ### 视频连接提取插件（目前仅限chrome浏览器）
 - #### [插件下载地址](https://xsyhnb.lanzoui.com/iQO0Cibp46j)(内附手动安装的教程)
 #### 支持网站：
-	- 娱乐网站：
-	- [Acfun](https://www.acfun.cn/)
-	- [Bilibili](https://www.bilibili.com/)
-	- 开车网站:
-	- Xvideo、91porn、pornhub、sex8、爱青岛（[小孩别好奇](https://xsyhnb.lanzoui.com/irA1vibpnda)）
+- 娱乐网站
+- [Acfun](https://www.acfun.cn/)
+- [Bilibili](https://www.bilibili.com/)
+- 开车网站:
+- Xvideo、91porn、pornhub、sex8、爱青岛（[小孩别好奇](https://xsyhnb.lanzoui.com/irA1vibpnda)）
 
 
 ### 1. bilibili视频下载-大会员视频解析
