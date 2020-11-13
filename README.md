@@ -2,7 +2,7 @@
 # 最近油猴平台的脚本莫名其妙的被举报，甚是无奈！建议大家手动安装吧！
 ## 脚本列表（更多脚本开发中...）
 
-### 视频连接提取插件（目前仅限chrome浏览器）
+### 1.视频连接提取插件（目前仅限chrome浏览器）
 - #### [插件下载地址](https://xsyhnb.lanzoui.com/iQO0Cibp46j)(内附手动安装的教程)
 #### 支持网站：
 - 娱乐网站
@@ -12,16 +12,7 @@
 - Xvideo、91porn、pornhub、sex8、爱青岛（[小孩别好奇](https://xsyhnb.lanzoui.com/irA1vibpnda)）
 
 
-### 1. bilibili视频下载-大会员视频解析
-- #### [油猴直接安装](https://greasyfork.org/zh-CN/scripts/410145-bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E5%A4%A7%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3)
-- #### 手动安装油猴脚本（<font color='red'>强烈建议</font>）（免费使用）
-	- [脚本下载地址1.0.0 (蓝凑云)](https://xsyhnb.lanzous.com/iF3HDfswieh) (内附手动安装的教程)
-	- [脚本下载地址1.1.0 (蓝凑云)](https://xsyhnb.lanzoui.com/iZz9ehkrg8d) (内附手动安装的教程)
-- #### 浏览器插件直接安装（开发中）
-	- 谷歌浏览器(Fhrome)
-	- 火狐浏览器(Firefox)
-	- 360浏览器
-	- Edge浏览器
+
 
 ### 2. QQ群成员信息提取
 - #### [视频演示链接](https://www.bilibili.com/video/BV1kV411z7YW)
